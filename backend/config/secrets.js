@@ -3,6 +3,6 @@
  */
 module.exports = {
     token : "secret-starter-mern",
-    mongo_connection : "mongodb+srv://admin:12345@cluster0.yiemt.mongodb.net/fleaillinois?retryWrites=true&w=majority"
+    mongo_connection : "mongodb+srv://admin:XXXXX@cluster0.yiemt.mongodb.net/fleaillinois?retryWrites=true&w=majority" //removed the secret key
     //example: mongo_connection : "mongodb+srv://[type-yours]:[type-yours]@[type-yours-web-provided].mongodb.net/test?retryWrites=true"
 };
