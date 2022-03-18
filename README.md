@@ -1,12 +1,13 @@
-# CS498RK FP: Flea Illinois
+# Final Project: Flea Illinois
+#### The Art of Web Programming
 #### December 2021
 
 #### Team HTML5
-- Wenshan Xiong (wenshan2)
-- Jerry Nie(runpeng3)
-- Zewei Long (zeweil2)
-- Tiancheng Jiang (tj15)
-- Chuanyue Shen (cs11)
+- Wenshan Xiong
+- Jerry Nie
+- Zewei Long
+- Tiancheng Jiang
+- Chuanyue Shen
 
 ## Table of Contents
 1. [Introduction](#introduction)
