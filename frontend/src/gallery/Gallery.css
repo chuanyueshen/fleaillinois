@@ -1,0 +1,49 @@
+.Gallery{
+    padding: 25px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+}
+
+.container-gallery {
+    width: 95%;
+    display: grid;
+    grid-template-columns: repeat(4, 2fr);
+    grid-template-rows: auto;
+    border: inset;
+    border-radius: 50px;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-style: italic;
+    font-weight: 100;
+    font-variant-ligatures: normal;
+}
+
+.container-pagination{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 25%;
+}
+
+.form{
+    padding-top: 0%;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-style: italic;
+    font-weight: 100;
+    font-variant-ligatures: normal;
+}
+
+.sortBar{
+    color: #0f1e4e;
+    font-weight: bold;
+    display: block;
+    width: 150px;
+    float: left;
+}
+
+/* .link-gallery-item:hover{
+    background-color: #E8E9EA;
+    padding: 10px;
+} */
+

@@ -1,0 +1,34 @@
+.Post{
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container-post{
+  width: 25vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 4px solid #13294B;
+  border-radius: 20px;
+}
+
+.container-post .form-group{
+  padding: 20px 0;
+}
+
+.container-post .link-submit{
+  width: 40%;
+  text-align: center;
+  background-color: #13294B;
+  color: white;
+  padding: 10px 0;
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+.link-submit:hover{
+  background-color: #E84A27;
+  color: #13294B;
+}

@@ -1,0 +1,43 @@
+.header {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #13294B;
+    padding: 20px 0;
+}
+
+.header .form-search-bar {
+    display: flex;
+    align-items: center;
+}
+
+#input-search-bar{
+    width: 300px;
+}
+
+.header .container-headings{
+    display: flex;
+
+}
+
+.link-heading {
+    color: white;
+    text-decoration: none;
+
+}
+
+.header .container-headings .link-heading:hover{
+    background-color: #E84A27;
+    color: #13294B;
+}
+
+.header .container-headings .link-heading{
+    padding: 10px;
+}
+
+#link-search-btn{
+    background-color: #E84A27;
+    padding: 2px 6px;
+    color: #13294B;
+}

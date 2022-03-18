@@ -1,0 +1,51 @@
+.div{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    row-gap: 3rem;
+    /*justify-content: space-evenly */
+}
+
+#intro{
+    margin: 5% 0 0 5%;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    float: left;
+}
+
+#photo{
+    max-height: 10vw;
+}
+
+#seller-info {
+    margin: 0 5% 0 5%;
+}
+
+#seller-info img {
+    height: 12rem;
+    width: 12rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#comments{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.lead {
+    text-align: left;
+    font-size: 1rem;
+    line-height: 1.7;
+    font-family: "lora-regular", serif;
+}
+
+#disabled-button {
+    opacity: 0.3;
+}

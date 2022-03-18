@@ -1,0 +1,2 @@
+echo "Deploying project"
+ssh "$SSH_ADDRESS" "killall screen ; cd fleaillinois && git pull origin master && screen -dm bash -c 'cd backend && npm install && npm start' && screen -dm bash -c 'cd frontend && npm install && npm start'"

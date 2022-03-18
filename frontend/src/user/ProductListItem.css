@@ -1,0 +1,40 @@
+.product-list-item {
+    width: 90%;
+    display: flex;
+    align-items: center;
+    position: relative;
+    background-color: #A5A8AA;
+    margin: 10px 0;
+}
+
+.product-detail{
+    padding: 0 10px;
+}
+
+.img-product {
+    width: 10%;
+}
+
+.product-date {
+    position: absolute;
+    right: 0;
+    margin-right: 20px;
+}
+
+.link-detail{
+    text-decoration: none;
+    color: white;
+    background-color: #13294b;
+    padding: 2px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.link-detail:hover{
+    background-color: #E84A27;
+    color: #13294b;
+}
+
+.h2-user-product{
+    color: #13294b;
+}
