@@ -3,11 +3,11 @@
 #### December 2021
 
 #### Team HTML5
+- Chuanyue Shen
 - Wenshan Xiong
 - Jerry Nie
 - Zewei Long
 - Tiancheng Jiang
-- Chuanyue Shen
 
 ## Table of Contents
 1. [Introduction](#introduction)
