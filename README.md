@@ -1,7 +1,7 @@
 # Final Project: Flea Illinois
 #### The Art of Web Programming
 #### December 2021
-#### Note: this project was originally done on GitLab. Migirated to GitHub for easier reference.
+#### Note: this project was originally done on GitLab. Moved here for easier reference.
 #### Team HTML5
 - Chuanyue Shen
 - Wenshan Xiong
